@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="GenericBox">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/16GenericsExer/src/GenericBox/GenericBox.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

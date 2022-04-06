@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01StacksAndQueuesLab/01StacksAndQueuesLab.iml" filepath="$PROJECT_DIR$/01StacksAndQueuesLab/01StacksAndQueuesLab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02StacksAndQueuesExer/02StacksAndQueuesExer.iml" filepath="$PROJECT_DIR$/02StacksAndQueuesExer/02StacksAndQueuesExer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03MultidimensionalArraysLab/03MultidimensionalArraysLab.iml" filepath="$PROJECT_DIR$/03MultidimensionalArraysLab/03MultidimensionalArraysLab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04MultidimensionalArraysExer/04MultidimensionalArraysExer.iml" filepath="$PROJECT_DIR$/04MultidimensionalArraysExer/04MultidimensionalArraysExer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05SetsAndMapsAdvancedLab/05SetsAndMapsAdvancedLab.iml" filepath="$PROJECT_DIR$/05SetsAndMapsAdvancedLab/05SetsAndMapsAdvancedLab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06SetsAndMapsAdvancedExer/06SetsAndMapsAdvancedExer.iml" filepath="$PROJECT_DIR$/06SetsAndMapsAdvancedExer/06SetsAndMapsAdvancedExer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07StreamsFilesAndDirectoriesLab/07StreamsFilesAndDirectoriesLab.iml" filepath="$PROJECT_DIR$/07StreamsFilesAndDirectoriesLab/07StreamsFilesAndDirectoriesLab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08StreamsFilesAndDirectoriesExer/08StreamsFilesAndDirectoriesExer.iml" filepath="$PROJECT_DIR$/08StreamsFilesAndDirectoriesExer/08StreamsFilesAndDirectoriesExer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09FunctionalProgrammingLab/09FunctionalProgrammingLab.iml" filepath="$PROJECT_DIR$/09FunctionalProgrammingLab/09FunctionalProgrammingLab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10FunctionalProgrammingExer/10FunctionalProgrammingExer.iml" filepath="$PROJECT_DIR$/10FunctionalProgrammingExer/10FunctionalProgrammingExer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11DefiningClassesLab/11DefiningClassesLab.iml" filepath="$PROJECT_DIR$/11DefiningClassesLab/11DefiningClassesLab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12DefiningClassesExer/12DefiningClassesExer.iml" filepath="$PROJECT_DIR$/12DefiningClassesExer/12DefiningClassesExer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13Workshop/13Workshop.iml" filepath="$PROJECT_DIR$/13Workshop/13Workshop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/14Workshop Custom Linked List/14Workshop Custom Linked List.iml" filepath="$PROJECT_DIR$/14Workshop Custom Linked List/14Workshop Custom Linked List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/15GenericsLab/15GenericsLab.iml" filepath="$PROJECT_DIR$/15GenericsLab/15GenericsLab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/16GenericsExer/16GenericsExer.iml" filepath="$PROJECT_DIR$/16GenericsExer/16GenericsExer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/17IteratorsAndComparatorsLab/17IteratorsAndComparatorsLab.iml" filepath="$PROJECT_DIR$/17IteratorsAndComparatorsLab/17IteratorsAndComparatorsLab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/18IteratorsAndComparatorsExer/18IteratorsAndComparatorsExer.iml" filepath="$PROJECT_DIR$/18IteratorsAndComparatorsExer/18IteratorsAndComparatorsExer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/19AlgorithmsWorkshop/19AlgorithmsWorkshop.iml" filepath="$PROJECT_DIR$/19AlgorithmsWorkshop/19AlgorithmsWorkshop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20ExamPreparation/20ExamPreparation.iml" filepath="$PROJECT_DIR$/20ExamPreparation/20ExamPreparation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Advanced_Java.iml" filepath="$PROJECT_DIR$/.idea/Advanced_Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExamTask03/ExamTask03.iml" filepath="$PROJECT_DIR$/ExamTask03/ExamTask03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exam_23_10/Exam_23_10.iml" filepath="$PROJECT_DIR$/Exam_23_10/Exam_23_10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test2/test2.iml" filepath="$PROJECT_DIR$/test2/test2.iml" />
+    </modules>
+  </component>
+</project>

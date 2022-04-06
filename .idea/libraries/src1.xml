@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="src1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/18IteratorsAndComparatorsExer/src/StrategyPattern.zip!/" />
+      <root url="jar://$PROJECT_DIR$/18IteratorsAndComparatorsExer/src/ComparingObjects.zip!/" />
+      <root url="jar://$PROJECT_DIR$/18IteratorsAndComparatorsExer/src/Collection.zip!/" />
+      <root url="jar://$PROJECT_DIR$/18IteratorsAndComparatorsExer/src/Froggy.zip!/" />
+      <root url="jar://$PROJECT_DIR$/18IteratorsAndComparatorsExer/src/StackIterator.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

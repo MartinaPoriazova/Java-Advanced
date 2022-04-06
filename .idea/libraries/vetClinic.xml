@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="vetClinic">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ExamTask03/src/vetClinic.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
